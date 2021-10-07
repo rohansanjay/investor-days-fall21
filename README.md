@@ -14,4 +14,5 @@ To do (**by 10/12**):
 - Complete Lesson 1 (Buy and Hold / Equities) of this [tutorial course](https://www.quantconnect.com/learning/course/1/boot-camp-101-us-equities)
 - Fill out your availability for our weekly team meetings [here](https://lettucemeet.com/l/Dl2l8)
   - *note: we will meet the week of 10/17 and use that as a recurring meeting time slot so please fill out your availability accordingly*
+- Feel free read up on investor days / project topics generally and add any interesting findings to our shared drive [here](https://drive.google.com/drive/u/0/folders/0AEPlvIHyEklGUk9PVA)
 
