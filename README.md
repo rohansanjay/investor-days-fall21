@@ -4,7 +4,7 @@
 
 Summary: 
 
-- Set weekly meeting time (Mondays 5 - 6)
+- Set weekly meeting time (Mondays 4 - 5)
 - QuantConnect research notebook demo (pulling stock data)
 
 To do (**by 10/26**):
