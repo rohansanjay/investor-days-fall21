@@ -1,5 +1,16 @@
 # investor-days-fall21
 
+### 10/25 - Team Meeting
+
+Summary: 
+
+- Pulled and graphed close prices of stocks in the research environment (different dates, frequences, etc.)
+- Started looking into options and plotting prices at different strikes 
+
+To do (**by 10/26**):
+
+- Think about specific direction of project interest
+
 ### 10/19 - General Meeting
 
 Summary: 
