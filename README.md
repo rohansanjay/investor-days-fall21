@@ -1,5 +1,19 @@
 # investor-days-fall21
 
+### 11/1 - Team Meeting
+
+Summary:
+
+- Made team project check in [presentation](https://docs.google.com/presentation/d/1jru1xy_MMRq6dFX2kD2tH5IspbeE0qObgqWaQOGPWzE/edit)
+
+To do ( **by 11/8**):
+
+- Review options data analysis [starter code](https://github.com/quantsc/investor-days-fall21/blob/main/rohans_code/research.ipynb) and try making plots for other investor days
+- Options reading
+  - https://www.investopedia.com/options-basics-tutorial-4583012
+  - https://optionalpha.com/options/basics
+  - https://www.optionsplaybook.com/options-introduction/what-is-volatility/
+
 ### 10/25 - Team Meeting
 
 Summary: 
