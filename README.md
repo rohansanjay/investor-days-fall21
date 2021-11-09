@@ -1,5 +1,15 @@
 # investor-days-fall21
 
+### 11/8 - Team Meeting
+
+Summary: 
+
+- A lot of fun discussion about options
+
+To do (**by __**):
+
+- Task 1
+
 ### 11/1 - Team Meeting
 
 Summary:
