@@ -1,14 +1,27 @@
 # investor-days-fall21
 
+### 11/9 - General Meeting
+
+Summary:
+
+- Learned command line basics and cloned GitHub repository
+- Read through options basics tutorial on QuantConnect
+
+To do (**by 11/15**)
+
+- Watch this command line basics [video](https://www.youtube.com/watch?v=aKRYQsKR46I)
+- Read these QuantConnect options tutorials
+  - [General Features of Options](https://www.quantconnect.com/tutorials/introduction-to-options/general-features-of-options)
+  - [Put-Call Parity and Arbitrage Strategies](https://www.quantconnect.com/tutorials/introduction-to-options/put-call-parity-and-arbitrage-strategies)
+  - [Options Pricing](https://www.quantconnect.com/tutorials/introduction-to-options/options-pricing-black-scholes-merton-model)
+  - [Historical Volatility and Implied Volatility](https://www.quantconnect.com/tutorials/introduction-to-options/historical-volatility-and-implied-volatility)
+
 ### 11/8 - Team Meeting
 
 Summary: 
 
-- A lot of fun discussion about options
-
-To do (**by __**):
-
-- Task 1
+- Reviewed starter code
+- Discussed options basics
 
 ### 11/1 - Team Meeting
 
