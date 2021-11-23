@@ -1,5 +1,39 @@
 # investor-days-fall21
 
+### 11/22
+
+Summary:
+
+- Generated options chain returns by contract using groupby
+  - Decided against implied volatility calculations because of issues with QuantConnect importing unsupported packages
+- Brainstormed analysis steps and formulated the following plan to wrap up the project/semester
+  - Work on analysis during meeting tomorrow and through this week
+  - Discuss findings at next Monday's team meeting (11/29 4 PM DML East Asian-110B) and create presentation
+  - Rehearse presentation Monday night ~30 mins (tentatively at 8:30 PM)
+  - Present Tuesday during general meeting
+  - Done team celebration lfggg
+
+To do (**by 11/29**):
+
+- Analysis work (refer to updated skeleton code [here](https://github.com/quantsc/investor-days-fall21/blob/main/rohans_code/research.ipynb))
+  - Step 1: find an investor day for some company (change ticker and start/end date in getOptionDf function call)
+  - Step 2: plots graphs for a column for every single contract (plotAllStrikesAndTypes function call)
+    - Interesting columns: 'returns', 'close', 'volume'
+  - Step 3: look for something interesting! Take screenshots of what you see and document
+  - Guiding questions:
+    - Do different parts of the options chain (moneyless - ATM, ITM, OTM) have different trends on investor days? Does one subset move more than others?
+    - Do trends for calls and put with the same strike/expiry move in the directions we expect?
+    - Are big volume changes correlated with big corresponding changes in price/returns?
+- Presentation
+  - We'll create an outline during tomorrow's general meeting and talk slides etc. 
+
+### 11/15
+
+Summary:
+
+- First commits LFG (we'll never forget this day)
+- Talked about calculating implied volatility for each option using Black Scholes with py_vollib package
+
 ### 11/9 - General Meeting
 
 Summary:
