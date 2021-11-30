@@ -1,4 +1,28 @@
-# investor-days-fall21
+## investor-days-fall21
+
+### 11/29
+
+Outline for presentation:
+
+1. Title Slide - Rohan
+
+2. Team intro (need a headshot from everyone) - Rohan 
+
+3. Investor Day background - Rohan 
+
+4. 1. What is an investor day
+   2. What trends do we see on investor days (include a graph)
+   3. Our hypothesis and project goals
+
+5. Analysis slides
+
+6. 1. Everyone can present a slide on their analysis
+
+7. What we learned (finance, tools, etc.) - Leyla
+
+8. Challenges - Morgan
+
+9. Next steps - Syrah
 
 ### 11/22
 
