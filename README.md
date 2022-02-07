@@ -1,4 +1,22 @@
-## investor-days-fall21
+# investor-days-fall21
+
+Fall 2021 Quant SC Project by Leyla Winston, Morgan Lu, Syrah Vaswani, and Rohan Sanjay (Project Manager). We investigated heightened variability in option price movements on investor days. Check out our presentation [here](https://docs.google.com/presentation/d/1OMdCbCVdm1Ctyj82If7naslAkP7ya40nhJJYIRRVjVI/edit#slide=id.g102d6bd0591_0_0)!
+
+Findings:
+
+- Volume: spikes in volume mirror price fluctuations on investor days
+- Moneyness: ATM and OTM options appear more volatile than ITM options on investor days
+- Direction: put prices tend to move more the day before an investor day
+
+Final presentation panelist feedback:
+
+- Comparing investor days to earning calls could make a great academic paper
+- Try to see if a pattern exists in when investor days happen along with whether there is usually specific fundamental information that drives price movements
+- Consider overall market movement
+- Look at IV and track deltas
+- Note that strict risk management at trading firms generally won't allow for such large directional positions
+
+## Project Timeline
 
 ### 11/29
 
